@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Profiles</title>
+</head>
+
+<style>
+
+
+div {
+text-align: center;
+}
+
+.passwords{
+margin-top: 20px;
+}
+
+.reme{
+    margin-top: 20px;
+}
+
+.logins {
+margin-top: 20px;
+}
+
+form {
+
+margin: 0 auto;
+width:300px;
+
+}
+
+.formbackground {
+
+    background-color: rgb(235, 23, 23);
+}
+
+.buttons {
+    padding: 20px 40px;
+}
+
+
+</style>
+
+
+<body>
+
+</body>
+</html>
